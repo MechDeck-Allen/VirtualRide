@@ -1,0 +1,15 @@
+# Stable line endings for source and documentation
+*.cs text eol=lf
+*.java text eol=lf
+*.ino text eol=lf
+*.h text eol=lf
+*.cpp text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.xml text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.sh text eol=lf
+
+# Add Git LFS patterns only after reviewing size, quotas and project needs.
+# Keep Unity YAML scenes/prefabs and all .meta files in normal Git where practical.
