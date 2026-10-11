@@ -1,0 +1,53 @@
+# Unity-generated and regenerable folders
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Ll]ogs/
+**/[Uu]ser[Ss]ettings/
+**/[Mm]emoryCaptures/
+**/[Bb]uild/
+**/[Bb]uilds/
+
+# Unity-generated IDE files
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.tmp_proj
+
+# IDE and OS files
+.vs/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local diagnostics
+sysinfo.txt
+*.stackdump
+
+# Build outputs
+*.apk
+*.aab
+*.unitypackage
+
+# Credentials and signing material
+*.keystore
+*.jks
+.env
+.env.*
+secrets.json
+
+# Backup archives stay outside the repository
+*.zip
+*.7z
+*.rar
