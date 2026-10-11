@@ -20,27 +20,27 @@ VirtualRide is a Unity-based indoor cycling simulator connecting a physical roll
 
 ### Android app UI
 
-![VirtualRide Android app UI](docs/images/virtualride-mobile-ui.jpg)
+![VirtualRide Android app UI](docs/images/virtualride-mobile-ui.webp)
 
 The captured landscape screen shows a road scene, route-following cyclist, speed and RPM gauges, Start Ride control, BLE status, and Ride Info. At capture time the UI showed `BIKE DISCONNECTED`, zero speed/distance, a target speed of 20 km/h, and `SESSION TIME 00:00`. This is a UI baseline, not proof of a successful live BLE session.
 
 ### Mechanical roller frame
 
-![VirtualRide roller trainer frame](docs/images/roller-trainer-frame.jpg)
+![VirtualRide roller trainer frame](docs/images/roller-trainer-frame.webp)
 
 The frame uses extrusion profiles, rollers, and support brackets. Record measured dimensions, roller spacing, shaft and bearing details, and the wheel/roller coupling before attempting a faithful rebuild.
 
 ### ESP32 and power electronics
 
-![ESP32 and power electronics enclosure](docs/images/esp32-power-electronics-enclosure.jpg)
+![ESP32 and power electronics enclosure](docs/images/esp32-power-electronics-enclosure.webp)
 
 The enclosure photograph shows an ESP32 board, perfboard, and an adjustable DC-DC converter. The exact module and voltage settings are not confirmed by the photo; measure them before documenting final wiring.
 
 ### Magnetic rotation test rig
 
-![Rotation test rig top view](docs/images/magnetic-rotation-test-rig-top.jpg)
+![Rotation test rig top view](docs/images/magnetic-rotation-test-rig-top.webp)
 
-![Rotation test rig front view](docs/images/magnetic-rotation-test-rig-front.jpg)
+![Rotation test rig front view](docs/images/magnetic-rotation-test-rig-front.webp)
 
 These photos show a motor, rotating disc/pulley with visible markers, and a discrete-component test circuit. They are build records, not circuit diagrams. Verify the sensor type, magnet count, actual pulse count per revolution, component values, and pin mapping.
 
