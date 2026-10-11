@@ -6,21 +6,21 @@ This document records what can be seen in the prototype photographs and the info
 
 ### Roller trainer frame
 
-![Roller trainer frame](images/roller-trainer-frame.jpg)
+![Roller trainer frame](images/roller-trainer-frame.webp)
 
 The current mechanical prototype uses extrusion profiles, two cylindrical rollers and end supports/brackets. Record frame dimensions, roller spacing, shaft diameters, bearings, materials, wheel-to-roller coupling and fasteners from physical measurements.
 
 ### ESP32 and power electronics enclosure
 
-![ESP32 and power electronics enclosure](images/esp32-power-electronics-enclosure.jpg)
+![ESP32 and power electronics enclosure](images/esp32-power-electronics-enclosure.webp)
 
 The enclosure photo shows an ESP32 development board, a perfboard section and an adjustable DC-DC converter with a display. The exact converter model and configured voltage are not established by the photograph. Measure supply input/output voltage and current limits before documenting or reconnecting final power wiring.
 
 ### Magnetic rotation test rig
 
-![Magnetic rotation test rig, top view](images/magnetic-rotation-test-rig-top.jpg)
+![Magnetic rotation test rig, top view](images/magnetic-rotation-test-rig-top.webp)
 
-![Magnetic rotation test rig, front view](images/magnetic-rotation-test-rig-front.jpg)
+![Magnetic rotation test rig, front view](images/magnetic-rotation-test-rig-front.webp)
 
 The rig shows a motor, rotating disc/pulley with two visible dark markers and a discrete-component circuit. Verify whether the markers are magnets and confirm the actual sensor output before setting pulses per revolution. Do not infer a pinout or circuit topology from these photographs.
 
